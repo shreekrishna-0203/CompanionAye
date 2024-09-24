@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273126002831",
+    "project_id": "companionaye",
+    "storage_bucket": "companionaye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273126002831:android:a41f9f562ac977def260fa",
+        "android_client_info": {
+          "package_name": "com.example.companionaye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOnfWCGFo8ldAgHh0n595p7m8LN6A_so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

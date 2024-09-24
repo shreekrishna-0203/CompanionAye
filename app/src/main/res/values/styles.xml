@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="ReelActionButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+<item name="android:textColor">@android:color/white</item>
+<item name="android:background">@android:color/transparent</item>
+</style>
+
+<style name="ReelNavButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+<item name="android:textColor">@android:color/white</item>
+<item name="android:background">@android:color/transparent</item>
+</style>
+</resources>
